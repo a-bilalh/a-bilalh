@@ -43,6 +43,7 @@ AWS
 Object-Oriented Programming (OOP)
 Data Structures & Algorithms
 Agile Development
+
 🚀 Featured Projects
 1. Bookstore Web Application
 
@@ -56,8 +57,7 @@ Implemented user authentication and inventory management.
 Integrated PostgreSQL for database management.
 Deployed the frontend using Vercel and backend using Render.
 
-🔗 GitHub Repository
-🌐 Live Application
+🔗 [GitHub Repository]([https://github.com/a-bilalh/YOUR-REPOSITORY-NAME](https://github.com/a-bilalh/bookstore-web))
 
 2. Online Bookstore with Checkout Integration
 
