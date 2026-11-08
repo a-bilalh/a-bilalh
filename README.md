@@ -1,6 +1,6 @@
 markdown
 
-# Hi, I'm Ahmad Bilal 👋
+# Hi, I'm Bilal 👋
 
 ### Full-Stack Developer | Exploring AI & Machine Learning
 
@@ -21,7 +21,6 @@ of Artificial Intelligence and Machine Learning.
 - Machine Learning
 
 ### 🌐 Connect With Me
-- LinkedIn: [https://www.linkedin.com/in/ahmad-bilal-hassan-988602199/]
-- Email: [abilalh7@gmail.com]
+- LinkedIn: https://www.linkedin.com/in/ahmad-bilal-hassan-988602199/
+- Email: abilalh7@gmail.com
 
-Thanks for visiting my profile!
