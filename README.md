@@ -68,6 +68,12 @@ I'm particularly interested in:
 - Build meaningful projects that demonstrate my skills.
 - Grow as a computer scientist and software developer.
 
+## 📄 My Resume
+You can view or download my resume below.
+
+📌 View My Resume (./Resume.pdf)
+📥 Download My Resume
+
 ## 🤝 Let's Connect
 
 I'm always interested in learning, sharing ideas,
