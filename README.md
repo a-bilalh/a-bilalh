@@ -9,12 +9,14 @@ I enjoy building full-stack applications, solving complex technical problems, an
 
 My background combines Computer Science and Economics, giving me an interest in both the technical development of software and the problems technology can help solve.
 
+
 🎓 Education & Background
 Boston University – MS in Computer Science and Artificial Intelligence (Expected May 2028)
 The University of Iowa – BA in Computer Science
 The University of Iowa – BS in Economics
 
-I also have experience tutoring mathematics, statistics, and computer science, including programming fundamentals, data structures, algorithms, and debugging.
+I also have experience tutoring mathematics, statistics, and computer science, including programming fundamentals, data structures, and algorithms.
+
 
 🛠️ Technical Skills
 Programming Languages
@@ -39,10 +41,11 @@ Developer Tools & Concepts
 Git & GitHub
 Linux
 Visual Studio Code
-AWS
+AWS fundamentals
 Object-Oriented Programming (OOP)
 Data Structures & Algorithms
 Agile Development
+
 
 🚀 Featured Projects
 1. Bookstore Web Application
@@ -57,7 +60,7 @@ Implemented user authentication and inventory management.
 Integrated PostgreSQL for database management.
 Deployed the frontend using Vercel and backend using Render.
 
-🔗 [GitHub Repository]([https://github.com/a-bilalh/YOUR-REPOSITORY-NAME](https://github.com/a-bilalh/bookstore-web))
+🔗 [GitHub Repository](https://github.com/a-bilalh/bookstore-web)
 
 2. Online Bookstore with Checkout Integration
 
@@ -71,7 +74,7 @@ Integrated MySQL using Spring Data JPA.
 Built shopping cart and order placement functionality.
 Integrated Stripe for payment processing.
 
-🔗 [Add GitHub Repository Link]
+🔗 [GitHub Repository](https://github.com/a-bilalh/virtual-bookstore_springboot)
 
 3. Tutoring Website
 
@@ -83,7 +86,8 @@ Created a one-page website to showcase tutoring services.
 Focused on presenting information through a clean and accessible interface.
 Deployed the website using Vercel.
 
-🌐 Visit Website
+🌐 [Visit Tutoring Website](https://tutoring-website-phi-pink.vercel.app/)
+
 
 🧠 Current Technical Interests
 
@@ -95,6 +99,8 @@ Machine Learning: Learning how models identify patterns, make predictions, and s
 Data Science: Working with data analysis, statistical methods, and machine learning libraries.
 Software Engineering: Improving application architecture, code quality, testing, and development practices.
 Algorithms: Strengthening my understanding of data structures, algorithms, and computational problem-solving.
+
+
 📚 Certifications & Learning
 
 HarvardX – CS50's Introduction to Artificial Intelligence with Python
@@ -103,6 +109,7 @@ Completed hands-on coursework and programming assignments covering AI concepts a
 
 October 2024
 
+
 🎯 Current Goals
 Deepen my understanding of Artificial Intelligence and Machine Learning.
 Strengthen my software engineering and full-stack development skills.
@@ -110,6 +117,8 @@ Build more advanced projects using Java, Python, React, and Spring Boot.
 Improve my knowledge of algorithms, data structures, and system design.
 Explore opportunities to contribute to collaborative software development projects.
 Continue growing as a computer scientist and software engineer.
+
+
 📄 Resume
 
 Interested in learning more about my academic background, technical skills, and professional experience?
