@@ -71,8 +71,8 @@ I'm particularly interested in:
 ## 📄 My Resume
 You can view or download my resume below.
 
-📌 View My Resume (./Resume.pdf)
-📥 Download My Resume
+📥 View My Resume (PDF) ./assets/documents/Resume.pdf
+
 
 ## 🤝 Let's Connect
 
