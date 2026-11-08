@@ -1,5 +1,3 @@
-markdown
-
 # Hi, I'm Bilal 👋
 
 ### Full-Stack Developer | Exploring AI & Machine Learning
