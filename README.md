@@ -1,16 +1,27 @@
-## Hi there 👋
+markdown
 
-<!--
-**a-bilalh/a-bilalh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Ahmad Bilal 👋
 
-Here are some ideas to get you started:
+### Full-Stack Developer | Exploring AI & Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Full-Stack Developer interested in building
+modern applications and exploring the possibilities
+of Artificial Intelligence and Machine Learning.
+
+### 💻 About Me
+- Experienced in Full-Stack Development
+- Interested in AI and Machine Learning
+- Continuously learning new technologies
+- Passionate about building practical solutions
+
+### 🛠️ Areas of Interest
+- Frontend Development
+- Backend Development
+- Artificial Intelligence
+- Machine Learning
+
+### 🌐 Connect With Me
+- LinkedIn: [https://www.linkedin.com/in/ahmad-bilal-hassan-988602199/]
+- Email: [abilalh7@gmail.com]
+
+Thanks for visiting my profile!
