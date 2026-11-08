@@ -41,6 +41,15 @@ Currently developing my knowledge and experience in:
 - Git and GitHub
 - AI and Machine Learning concepts
 
+### 📚 Tutoring Website
+Developed a one-page tutoring website to present
+tutoring services and provide visitors with
+relevant information.
+
+- **Live Website:** https://tutoring-website-phi-pink.vercel.app/
+- **Project Type:** Web Development
+- **Status:** Initial Version Complete | Ongoing Development
+
 ## 💡 What Interests Me
 
 I'm particularly interested in:
