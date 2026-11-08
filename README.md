@@ -11,8 +11,8 @@ My background combines Computer Science and Economics, giving me an interest in 
 
 🎓 Education & Background
 Boston University – MS in Computer Science and Artificial Intelligence (Expected May 2028)
-The University of Iowa – BA in Computer Science (GPA: 3.66)
-The University of Iowa – BS in Economics (GPA: 3.71)
+The University of Iowa – BA in Computer Science
+The University of Iowa – BS in Economics
 
 I also have experience tutoring mathematics, statistics, and computer science, including programming fundamentals, data structures, algorithms, and debugging.
 
